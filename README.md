@@ -16,7 +16,6 @@ https://github.com/Shushant-Priyadarshi/PHP-Blog/assets/148479955/14f0fe60-82d2-
 - MySQL: Database management system used for storing blog post data.
 - Bootstrap: Frontend framework used for styling and layout.
 - HTML/CSS: Used for creating the user interface and styling elements.
-- JavaScript: Used for client-side interactions and form validation.
 - Session Management: PHP sessions are used to authenticate users and manage their login status.
 
 # Contributing

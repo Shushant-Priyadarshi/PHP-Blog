@@ -3,7 +3,7 @@
         $username = $_POST['uname'];
         $password = $_POST['password'];
 
-        if($username=="admin" && $password== "prisha"){
+        if($username=="admin" && $password== "NoPls DOnt TellANyone! pls"){
             session_start();
             $_SESSION["user"] = "admin";
             header("Location:../index.php");
